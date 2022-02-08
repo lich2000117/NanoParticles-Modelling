@@ -6,4 +6,4 @@
 - Full Model: https://www.overleaf.com/read/gqwbdhssyrzn
 
 
-![Poster Overview](/../PosterOverview.png "Poster")
+![Poster Overview](/../PosterOverview.jpg "Poster")
