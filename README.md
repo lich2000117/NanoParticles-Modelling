@@ -4,3 +4,6 @@
 # More Detail:
 - Poster: https://www.overleaf.com/read/rggtwtjvxxgd
 - Full Model: https://www.overleaf.com/read/gqwbdhssyrzn
+
+
+![Poster Overview](PosterOverview.jpg?raw=true "Poster")
