@@ -5,5 +5,6 @@
 - Poster: https://www.overleaf.com/read/rggtwtjvxxgd
 - Full Model: https://www.overleaf.com/read/gqwbdhssyrzn
 
-
-![Poster Overview](/../PosterOverview.jpg "Poster")
+<p align="center">
+  <img src="PosterOverview.jpg"  width="1500" >
+</p>
